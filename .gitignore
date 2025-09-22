@@ -1,0 +1,19 @@
+# outputs and data
+../out/
+*.ptl
+*.ts
+*.vtu
+*.stl
+*.zip
+
+# local env/binaries/symlinks
+../bin/
+.venv/
+env/
+ogs-env/
+
+# OS/editor junk
+.DS_Store
+*.bak
+__pycache__/
+*.pyc
