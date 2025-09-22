@@ -4,9 +4,8 @@
 *.ts
 *.vtu
 *.stl
-*.zip
 
-# local env/binaries/symlinks
+# local env/binaries
 ../bin/
 .venv/
 env/
@@ -14,6 +13,5 @@ ogs-env/
 
 # OS/editor junk
 .DS_Store
-*.bak
 __pycache__/
 *.pyc
